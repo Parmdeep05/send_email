@@ -147,6 +147,10 @@
     <button id="nyttSitat">Nytt Sitat</button>
     <button id="btnDog">Bilde</button>
 </div>
+
+<form action="https://formsubmit.co/parmdeepsingh24@gmail.com" method="POST">
+    <input placeholder="navn" type="text" name="name" required>
+    <input placeholder="e-post" type="email" name="email" required>
 <div class="russekort" id="russekort">
     <div class="russekort-content">
         <div class="content-wrapper">
@@ -162,6 +166,10 @@
         </div>
     </div>
 </div>
+
+    <button type="submit">Send</button>
+</form>
+
 
 
 <script>
